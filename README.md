@@ -1,33 +1,5 @@
-
-
-# 📊 Credit Card Revenue & Customer Intelligence Dashboard
-
-This project analyzes customer behavior and revenue drivers in a credit card business using Power BI.
-
----
-
-## 🔍 Objective
-To identify key revenue drivers, customer segments, and growth opportunities to support strategic decision-making.
-
----
-
-## 📌 Key Insights
-
-- 83% of revenue is driven by Blue card users → high concentration risk  
-- Swipe transactions contribute ~64% of revenue → dominant channel  
-- High-income customers generate the most value, but mid-income users show growth potential  
-- Everyday spending categories (Bills, Fuel, Grocery) drive ~76% of revenue  
-- Revenue is concentrated in TX, NY, and CA  
-
----
-
-## 💡 Business Recommendations
-
-- Upsell Blue customers to Gold/Platinum tiers  
-- Invest in digital (online) transaction experience  
-- Target mid-income segment with personalized offers  
-- Expand marketing in underperforming regions  
-- Focus rewards on high-frequency spending categories  
+# 📊 Credit Card Revenue & Customer Intelligence Dashboard  
+### Analyzing $55M in credit card revenue to uncover key drivers, risks, and growth opportunities using Power BI
 
 ---
 
@@ -41,20 +13,59 @@ To identify key revenue drivers, customer segments, and growth opportunities to 
 
 ---
 
+## 🔍 Objective
+
+To identify key revenue drivers, customer segments, and growth opportunities to support strategic decision-making in a credit card business.
+
+---
+
+## 📌 Key Insights
+
+- 83% of revenue is driven by Blue card users → high concentration risk  
+- Swipe transactions contribute ~64% of revenue → dominant channel with low digital adoption  
+- High-income customers generate the most value, but mid-income users show strong growth potential  
+- Everyday spending categories (Bills, Fuel, Grocery) drive ~76% of revenue → stable and predictable revenue base  
+- Revenue is concentrated in TX, NY, and CA → geographic dependency  
+
+---
+
+## 💡 Business Recommendations
+
+- Upsell Blue customers to Gold/Platinum tiers to reduce revenue concentration risk  
+- Invest in digital (online) transaction experience to increase adoption  
+- Target mid-income customers with personalized offers to unlock growth  
+- Expand marketing efforts in underperforming regions  
+- Optimize rewards for high-frequency spending categories  
+
+---
+
+## 📈 Business Impact
+
+- Identified key revenue risks and dependency on a single customer segment  
+- Highlighted opportunities to increase digital transaction adoption  
+- Provided strategies to improve customer lifetime value  
+- Enabled data-driven decision-making for revenue growth  
+
+---
+
 ## 🛠 Tools Used
+
 - Power BI  
 - Data Modeling  
 - DAX  
 - Data Visualization  
+- Business Analysis  
 
 ---
 
 ## 📁 Project Files
-- Dashboard (.pbix)
-- Presentation (PowerPoint)
-- Screenshots
+
+- Power BI Dashboard (.pbix)  
+- Presentation (PowerPoint)  
+- Dashboard Screenshots  
 
 ---
 
 ## 🚀 About Me
-Aspiring data analyst focused on turning data into actionable business insights.
+
+Aspiring data analyst focused on turning data into actionable business insights and supporting strategic decision-making.
