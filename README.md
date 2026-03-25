@@ -33,7 +33,11 @@ To identify key revenue drivers, customer segments, and growth opportunities to 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](PASTE-YOUR-IMAGE
+### Customer Insights
+![Customer Dashboard](https://raw.githubusercontent.com/daniellatif1/credit-card-revenue-analysis-dashboard/main/Credit%20card%20Customer%20Page.png)
+
+### Transaction Analysis
+![Transaction Dashboard](https://raw.githubusercontent.com/daniellatif1/credit-card-revenue-analysis-dashboard/main/Credit%20card%20Transaction%20Page.png)
 
 ---
 
