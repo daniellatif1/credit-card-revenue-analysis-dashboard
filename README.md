@@ -60,7 +60,7 @@ To identify key revenue drivers, customer segments, and growth opportunities to 
 
 ## 📁 Project Files
 
-- Power BI Dashboard (.pbix)  
+ 📊 [Power BI Dashboard (.pbix)](https://github.com/daniellatif1/credit-card-revenue-analysis-dashboard/blob/main/Credit%20card%202026.pbix)
 - Presentation (PowerPoint)  
 - Dashboard Screenshots  
 
